@@ -32,11 +32,11 @@ namespace PlatformService.syncDataServices.Http
 
             if (response.IsSuccessStatusCode)
             {
-                Console.WriteLine("-->Sync Post to CommandService Was Ok!");
+                Console.WriteLine("--> Sync Post to CommandService Was Ok!");
             }
             else
             {
-                Console.WriteLine("-->Sync Post to CommandService Was NOT Ok!");
+                Console.WriteLine("--> Sync Post to CommandService Was NOT Ok!");
             }
         }
     }
