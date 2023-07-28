@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jOm6Mz2eCFkzj5DTiQ2RbQg6s13Dl+OJBrVP+oc5goN52BKOm3XeufcIx3f9mHP1D8r8ON9Z4lv7MIYXNGmZwQ==",
+  "dgSpecHash": "+SFlNUMEhBKt8wpoYWYEziQGHIli/o96almlS+goamp84CBnc1ipMTpTSd///AymB56D4k6fGnQYz2cHAoml2g==",
   "success": true,
   "projectFilePath": "D:\\My Projects\\MicroService\\s4\\e3\\CommandsService\\CommandsService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hesam\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Hesam\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Hesam\\.nuget\\packages\\grpc.tools\\2.56.2\\grpc.tools.2.56.2.nupkg.sha512",
     "C:\\Users\\Hesam\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Hesam\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.8\\microsoft.aspnetcore.openapi.7.0.8.nupkg.sha512",
     "C:\\Users\\Hesam\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
