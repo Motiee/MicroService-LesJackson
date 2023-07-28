@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hzckG2C9CT2xhK//hl5spWWCMjndBGTpFYmk42UEWbnnY2BEVMlYbjSZDrmvXN0IRuse9TEjbqDBN16o6GY0Ng==",
+  "dgSpecHash": "80YQZnxXgZU2uJetUalf2cWmuU08IFUVWbLKZrsq5liy4/dfQ9VY4yNm2ahq7YbHwYPEgbE18dgp6AydGsrWJg==",
   "success": true,
   "projectFilePath": "D:\\My Projects\\MicroService\\s4\\e3\\CommandsService\\CommandsService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hesam\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Hesam\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Hesam\\.nuget\\packages\\google.protobuf\\3.23.4\\google.protobuf.3.23.4.nupkg.sha512",
     "C:\\Users\\Hesam\\.nuget\\packages\\grpc.core.api\\2.55.0\\grpc.core.api.2.55.0.nupkg.sha512",
     "C:\\Users\\Hesam\\.nuget\\packages\\grpc.net.client\\2.55.0\\grpc.net.client.2.55.0.nupkg.sha512",
     "C:\\Users\\Hesam\\.nuget\\packages\\grpc.net.common\\2.55.0\\grpc.net.common.2.55.0.nupkg.sha512",
