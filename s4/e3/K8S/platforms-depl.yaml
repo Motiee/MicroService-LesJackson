@@ -33,4 +33,3 @@ spec:
     protocol: TCP
     port: 666
     targetPort: 666
-
